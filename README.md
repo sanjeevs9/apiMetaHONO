@@ -78,6 +78,7 @@ npm run deploy
 6. Create info.ts
    
 export const TOKEN = "your_facebook_graph_api_token"
+
 export const URL = "https://graph.facebook.com/v21.0"
 
 ## 📁 Project Structure
