@@ -1,0 +1,2 @@
+export const TOKEN="EAATcvlxPXGoBOycxLj2gOYC1sEfTZCEUYeYTXUm07lZB1hvrZCZCNi5HsgiQH4WyvlZCrrz4htNr6O5GbIwja0tXWTUDAjD0GWqybsGHhLz2fqD28yi4oCK10QDyeugHDsGpIkLIig5h883l2uFx1kVoZA9W6gQxXmGlC01bEzmTBLGVorgDQZBySspCwrEohHX04F0h0HoKWxA5lLIowZDZD" //dummy token info
+export const URL="https://graph.facebook.com/v21.0"
